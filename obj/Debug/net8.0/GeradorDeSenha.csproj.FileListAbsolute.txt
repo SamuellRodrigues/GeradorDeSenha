@@ -1,0 +1,15 @@
+c:\Users\Alunos\Documents\Senai tarde\samuel\GeradorDeSenha\bin\Debug\net8.0\GeradorDeSenha.exe
+C:\Users\Alunos\Documents\Senai tarde\samuel\GeradorDeSenha\bin\Debug\net8.0\GeradorDeSenha.deps.json
+C:\Users\Alunos\Documents\Senai tarde\samuel\GeradorDeSenha\bin\Debug\net8.0\GeradorDeSenha.runtimeconfig.json
+c:\Users\Alunos\Documents\Senai tarde\samuel\GeradorDeSenha\bin\Debug\net8.0\GeradorDeSenha.dll
+c:\Users\Alunos\Documents\Senai tarde\samuel\GeradorDeSenha\bin\Debug\net8.0\GeradorDeSenha.pdb
+c:\Users\Alunos\Documents\Senai tarde\samuel\GeradorDeSenha\obj\Debug\net8.0\GeradorDeSenha.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Alunos\Documents\Senai tarde\samuel\GeradorDeSenha\obj\Debug\net8.0\GeradorDeSenha.AssemblyInfoInputs.cache
+c:\Users\Alunos\Documents\Senai tarde\samuel\GeradorDeSenha\obj\Debug\net8.0\GeradorDeSenha.AssemblyInfo.cs
+c:\Users\Alunos\Documents\Senai tarde\samuel\GeradorDeSenha\obj\Debug\net8.0\GeradorDeSenha.csproj.CoreCompileInputs.cache
+c:\Users\Alunos\Documents\Senai tarde\samuel\GeradorDeSenha\obj\Debug\net8.0\GeradorDeSenha.sourcelink.json
+c:\Users\Alunos\Documents\Senai tarde\samuel\GeradorDeSenha\obj\Debug\net8.0\GeradorDeSenha.dll
+c:\Users\Alunos\Documents\Senai tarde\samuel\GeradorDeSenha\obj\Debug\net8.0\refint\GeradorDeSenha.dll
+c:\Users\Alunos\Documents\Senai tarde\samuel\GeradorDeSenha\obj\Debug\net8.0\GeradorDeSenha.pdb
+C:\Users\Alunos\Documents\Senai tarde\samuel\GeradorDeSenha\obj\Debug\net8.0\GeradorDeSenha.genruntimeconfig.cache
+C:\Users\Alunos\Documents\Senai tarde\samuel\GeradorDeSenha\obj\Debug\net8.0\ref\GeradorDeSenha.dll
