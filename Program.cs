@@ -1,47 +1,49 @@
 ﻿
+using System.ComponentModel;
+string letras;
+string numero;
+string especiais;
+
+
+
 Console.WriteLine("----Gerador de Senha----");
 Console.Write("Digite a quantidede de caracteres da senha: ");
 
 if (!int.TryParse(Console.ReadLine(), out int qtdSenha))
 {
   Console.WriteLine("valor invalido!");
-
-
+  return;
 }
-else
+
+
+Console.Write("Deseja incluir letras? (s/n):");
+letras = Console.ReadLine();
+
+if (letras.ToLower() == "s")
+
 {
-  Console.Write("Deseja incluir letras? (s/n):");
-  string letras = Console.ReadLine();
+  Console.Write("Deseja incluir numeros? (s/n):");
+  numero = Console.ReadLine();
 
-  if (letras.ToLower() == "s")
-
-  {
-    Console.Write("Deseja incluir numeros? (s/n):");
-    string numero = Console.ReadLine();
-
-    Console.Write("Deseja incluir caracteres especiais? (!@#$%&*) (s/n):");
-    string especiais = Console.ReadLine();
-
-    Console.Write("Deseja quantos caracteres especiais?:");
-    string especial = Console.ReadLine();
+  Console.Write("Deseja incluir caracteres especiais? (!@#$%&*) (s/n):");
+  especiais = Console.ReadLine();
 
 
-  }
+
 }
 
+int numeroaleatorio;
 Random random = new Random();
-
-string chars = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@#$%&*";
-int passwordLength = qtdSenha;
-
-
-
-string password = "";
-for (int i = 0; i < passwordLength; i++)
+for (int i = 0; i < qtdSenha; i++)
 {
-  password += chars[random.Next(chars.Length)];
+  numeroaleatorio =+ random.Next(0, 9);
+  Console.WriteLine($"senha {numeroaleatorio}");
 }
-Console.WriteLine($"Senha aleatória: {password}");
+
+
+
+
+
 
 
 
